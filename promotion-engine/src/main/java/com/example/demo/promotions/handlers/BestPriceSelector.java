@@ -23,6 +23,7 @@ public class BestPriceSelector {
 				minValue = tempValue;
 			}
 		}
+		System.out.println("adding another syso");
 		return minValue;
 	}
 }
