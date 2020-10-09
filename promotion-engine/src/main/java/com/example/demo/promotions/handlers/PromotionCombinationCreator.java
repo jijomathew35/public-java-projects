@@ -28,6 +28,8 @@ public class PromotionCombinationCreator {
 				}
 			}
 		}
+		
+		System.out.println("returning the list of promotions");
 		return promotions;
 	}
 
