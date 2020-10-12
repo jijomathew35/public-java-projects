@@ -30,6 +30,8 @@ public class PromotionCombinationCreator {
 		}
 		
 		System.out.println("returning the list of promotions");
+		System.out.println("2nd of conflict-- issue in merge");
+
 		return promotions;
 	}
 
